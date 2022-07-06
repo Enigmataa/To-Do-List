@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(115, 168, 236);
+  text-decoration-color: aliceblue;
+  padding: 50px;
+}
+h1 {
+  color: rgb(54, 54, 122);
+  background-color: rgb(252, 236, 216);
+  text-align: center;
+  /* padding-bottom: 100%; */
+}
+p {
+  border: 5px solid powderblue;
+  background-color: rgb(236, 232, 225);
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 15px;
+  text-align: center;
+}
+#task {
+  width: 100%;
+}
+/* p1 {
+  margin-left: 300px;
+} */
+/* .container {
+  width: 500px;
+} */
+/* #inputField {
+  width: 300px;
+  height: 50px;
+  border: 1px solid black;
+  outline: none;
+  font-size: 25px;
+  vertical-align: middle;
+}
+#addToDo {
+  height: 50px;
+  width: 50px;
+  border: 1px black;
+  vertical-align: middle;
+  font-size: 30px;
+} */
+/* .to-dos {
+  margin-top: 25px;
+} */
+/* .paragraph-styling {
+  margin: 0;
+  cursor: pointer;
+  font-size: 20px;
+} */
+/* input[type="text"]:focus {
+  background-color: rgb(198, 228, 238);
+} */ ;
